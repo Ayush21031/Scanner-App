@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">postAPI</string>
+    <string name="accessibility_service_description">This is a sample accessibility service</string>
+</resources>
